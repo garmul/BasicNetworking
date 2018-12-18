@@ -46,6 +46,8 @@ public class MainActivity extends FragmentActivity {
     // Whether there is a mobile connection.
     private static boolean mobileConnected = false;
 
+    private  static String name = "This is a test";
+
     // Reference to the fragment showing events, so we can clear it with a button
     // as necessary.
     private LogFragment mLogFragment;
