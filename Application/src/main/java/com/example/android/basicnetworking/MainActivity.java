@@ -48,6 +48,10 @@ public class MainActivity extends FragmentActivity {
 
     private  static String name = "This is a test";
 
+    private  static String name1 = "This is a test";
+
+    private  static String name2 = "This is a test";
+
     // Reference to the fragment showing events, so we can clear it with a button
     // as necessary.
     private LogFragment mLogFragment;
